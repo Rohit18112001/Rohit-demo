@@ -1,4 +1,4 @@
 # Rohit-demo
 This is my first Git Repository.
 <br>
-Author - Rohit Bangera
+Author - Rohit Kishore Bangera
